@@ -33,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1147
     wikipedia: http://en.wikipedia.org/wiki/Ann_Radcliffe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43652#Les-myst-res-d-Udolphe
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-09-05'
 gutenberg_type: Text

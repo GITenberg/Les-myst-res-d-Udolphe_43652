@@ -1,0 +1,56 @@
+_repo: Les-myst-res-d-Udolphe_43652
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Beaucé, Jean-Adolphe
+    aliases:
+    - Beauce, Jean-Adolphe
+    - Beaucé, J.-A. (Jean-Adolphe)
+    birthdate: 1818
+    deathdate: 1875
+    gutenberg_agent_id: '42346'
+    url: http://www.gutenberg.org/2009/agents/42346
+  translator:
+    agent_name: Chastenay, Madame de (Victorine)
+    aliases:
+    - Chastenay, Victorine de
+    - Chastenay, Louise-Marie-Victorine de
+    - De Chastenay, Madame, (Victorine)
+    birthdate: 1771
+    deathdate: 1855
+    gutenberg_agent_id: '42347'
+    url: http://www.gutenberg.org/2009/agents/42347
+covers:
+- cover_type: archival
+  image_path: 43652-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Radcliffe, Ann Ward
+    alias: Radcliffe, Mrs.
+    birthdate: 1764
+    deathdate: 1823
+    gutenberg_agent_id: '1147'
+    url: http://www.gutenberg.org/2009/agents/1147
+    wikipedia: http://en.wikipedia.org/wiki/Ann_Radcliffe
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43652'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Horror tales'
+- !lcsh 'Italy -- Fiction'
+- !lcsh 'Castles -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+title: Les mystères d'Udolphe
+url: http://www.gutenberg.org/ebooks/43652
